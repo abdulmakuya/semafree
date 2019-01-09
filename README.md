@@ -1,6 +1,6 @@
-## FundiDesk
+## SemaFree
 
-If you ever visit the kariakoo market in Tanzania, you must have met "Fundi Simu" who repairs phones for the local people. Most fundis 
+Ema is went to the hospital in Dar es salaam,and received a really poor customer service,adding to the disrespectful conversation from the attending nurse. 
 ![Image](https://github.com/suhan1996/fundidesk/blob/master/IMG_5264.jpg?raw=true)
 
 ## Problems
