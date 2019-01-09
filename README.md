@@ -1,11 +1,11 @@
 ## SemaFree
 
-Ema is went to the hospital in Dar es salaam,and received a really poor customer service,adding to the disrespectful conversation from the attending nurse. 
+Ema is an expecting lady living in unguja,She went to a hospital in Zanzibar,and received a really poor customer service,adding to the disrespectful conversation from the attending nurse. 
 ![Image](https://github.com/suhan1996/fundidesk/blob/master/IMG_5264.jpg?raw=true)
 
 ## Problems
-- Space: Fundis love to cluster, and everyone needs power supply, umbrella and other stuff, so that sometimes the space may get very crowded.
-- Storage: Fundis put everything on the top of the desk, which is messay and unorganized.
+- The right channel:In most of the time,the top level management is very willing to receive feedback and complaints,but the people do not know the right channels to reach to it
+- No loop feedback:In order to bring the culture of people giving feedback,you need to keep them posted..or getting them aware that their complaints or suggestation have been received and they will reached back whenever it would be necessary for further clarification.
 
 
 ## Our Design
