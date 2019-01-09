@@ -1,7 +1,9 @@
 ## SemaFree
 
 Ema is an expecting lady living in unguja,She went to a hospital in Zanzibar,and received a really poor customer service,adding to the disrespectful conversation from the attending nurse. 
+
 This happens in so many areas in the country,from public institutions,government agencies,corporates and so forth.with claims ranging from upcountry buses overspeeding,to very slow bankteller windows and so forth.
+
 Ironically the management needs to hear this from their customers,the customers need to give their feedback to whoever that can attend the situation but there is a gap.
 
 
