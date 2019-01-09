@@ -1,7 +1,7 @@
 ## SemaFree
 
 Ema is an expecting lady living in unguja,She went to a hospital in Zanzibar,and received a really poor customer service,adding to the disrespectful conversation from the attending nurse. 
-![Image](https://github.com/suhan1996/fundidesk/blob/master/IMG_5264.jpg?raw=true)
+
 
 ## Problems
 - The right channel:In most of the time,the top level management is very willing to receive feedback and complaints,but the people do not know the right channels to reach to it
