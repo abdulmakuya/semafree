@@ -8,15 +8,16 @@ Ema is an expecting lady living in unguja,She went to a hospital in Zanzibar,and
 - No loop feedback:In order to bring the culture of people giving feedback,you need to keep them posted..or getting them aware that their complaints or suggestation have been received and they will reached back whenever it would be necessary for further clarification.
 
 
-## Our Design
+## Our Solution
 
-We designed a interier side containter and a connector for the fundi desk.
-### Sketch 1
+We are designing a unified digital suggestion box for complaints and suggestions for the community
+
+### MObile app screenflow
 ![Image](https://github.com/suhan1996/fundidesk/blob/master/IMG_5262.jpg?raw=true)
-### Sketch 2
+### USSD screenflow
 ![Image](https://github.com/suhan1996/fundidesk/blob/master/IMG_5263.jpg?raw=true)
 
-## 3D Prototype
+## Web module for the management
 ![Image](https://github.com/suhan1996/fundidesk/blob/master/Screenshot%202019-01-08%20at%2014.58.53.png?raw=true)
 
 
