@@ -9,14 +9,12 @@ Ironically the management needs to hear this from their customers,the customers 
 </div>
 
 ## Challenges we are trying to adress
-<div style="border-radius:10px"><p style="background-color:lightblue">
+<p style="background-color:lightblue">
 - The right channel:In most of the time,the top level management is very willing to receive feedback and complaints,but the people do not know the right channels to reach to it
 - No loop feedback:In order to nurture the culture of people giving feedback,you need to get them aware that their complaints or suggestations have been received and they will reached back whenever it would be necessary for further clarification.
 - Timely response:Unlike the conventional method,of a box placed on the wall.the digitized process assures timely delivery to the management level.
 - All in one pack convinience:Although some providers provide hotline numbers,not everybody wants to save 50 numbers of their service providers.
           </p>
-          </div>
-
 ## Our Solution
 
 We are designing a unified digital suggestion box for complaints and suggestions for the community
