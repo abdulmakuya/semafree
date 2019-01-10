@@ -20,14 +20,14 @@ We are designing a unified digital suggestion box for complaints and suggestions
 
 ### Mobile app screenflow
 <img src="https://github.com/abdulmakuya/semafree/blob/master/app.jpg?raw=true">
-<img src="https://github.com/abdulmakuya/semafree/blob/master/app.jpg?raw=true">
+
           
 ### USSD screenflow
-<img src="https://github.com/abdulmakuya/semafree/blob/master/ussd_screen.jpeg?raw=true">
+<img src="https://github.com/abdulmakuya/semafree/blob/master/ussd.jpg?raw=true">
 
 
 ## System design pattern and architechture
-<img src="https://github.com/abdulmakuya/semafree/blob/master/back_end.jpeg?raw=true">
+<img src="https://github.com/abdulmakuya/semafree/blob/master/backend.jpg?raw=true">
 
 
 
