@@ -1,11 +1,12 @@
 ## SemaFree
-<p style="background-color:lightblue", border-radius:5px>
+<div style="border-radius:6px"><p style="background-color:lightblue">
 Ema is an expecting lady attending the maternity clinic,She went to a hospital in the city,and received a really poor customer service,adding to the disrespectful replies from the attending nurse. 
 
 This happens in so many areas in the country,from public institutions,government agencies,corporates and so forth.with claims ranging from upcountry buses overspeeding,to very slow bankteller windows and so forth.
 
 Ironically the management needs to hear this from their customers,the customers need to give their feedback to whoever that can attend the situation but there is a gap.
 </p>
+</div>
 
 ## Challenges we are trying to adress
 - The right channel:In most of the time,the top level management is very willing to receive feedback and complaints,but the people do not know the right channels to reach to it
