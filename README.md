@@ -19,7 +19,7 @@ Ironically the management needs to hear this from their customers,the customers 
 We are designing a unified digital suggestion box for complaints and suggestions for the community
 
 ### Mobile app screenflow
-<img src="https://github.com/abdulmakuya/semafree/blob/master/app.jpg">
+<img src="https://github.com/abdulmakuya/semafree/blob/master/app.jpg?raw=true">
           
 ### USSD screenflow
 <img src="https://github.com/abdulmakuya/semafree/blob/master/ussd_screen.jpeg?raw=true">
