@@ -10,6 +10,8 @@ Ironically the management needs to hear this from their customers,the customers 
 ## Challenges we are trying to adress
 - The right channel:In most of the time,the top level management is very willing to receive feedback and complaints,but the people do not know the right channels to reach to it
 - No loop feedback:In order to nurture the culture of people giving feedback,you need to get them aware that their complaints or suggestations have been received and they will reached back whenever it would be necessary for further clarification.
+- Timely response:Unlike the conventional method,of a box placed on the wall.the digitized process assures timely delivery to the management level.
+- All in one pack convinience:Although some providers provide hotline numbers,not everybody wants to save 50 numbers of their service providers.
 
 
 ## Our Solution
@@ -17,12 +19,15 @@ Ironically the management needs to hear this from their customers,the customers 
 We are designing a unified digital suggestion box for complaints and suggestions for the community
 
 ### Mobile app screenflow
-![Image](https://github.com/suhan1996/fundidesk/blob/master/IMG_5262.jpg?raw=true)
+
 ### USSD screenflow
 ![Image](https://github.com/suhan1996/fundidesk/blob/master/IMG_5263.jpg?raw=true)
 
 ## Web module for the management
-![Image](https://github.com/suhan1996/fundidesk/blob/master/Screenshot%202019-01-08%20at%2014.58.53.png?raw=true)
+
+## System design pattern and architechture
+
+
 
 
 
@@ -32,7 +37,6 @@ A lowcost solution to save space and enhance efficiency for the fundis.
 
 ```
 
-[View/Download the 3D model](https://cad.onshape.com/documents/770dbdb6e5e5786d75164041/w/601f35e9fa386c2315229862/e/ac914ba21baa19614e4c4a59).
 
 ### Rapid Prototyping
 
