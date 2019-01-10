@@ -1,4 +1,3 @@
-<body style="background-color:lightblue">
 ## SemaFree
 
 Ema is an expecting lady attending the maternity clinic,She went to a hospital in the city,and received a really poor customer service,adding to the disrespectful replies from the attending nurse. 
@@ -29,8 +28,6 @@ We are designing a unified digital suggestion box for complaints and suggestions
 
 ## System design pattern and architechture
 <img src="https://github.com/abdulmakuya/semafree/blob/master/backend.jpg?raw=true">
-
-</body>
 
 
 
