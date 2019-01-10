@@ -26,7 +26,7 @@ We are designing a unified digital suggestion box for complaints and suggestions
 <img src="https://github.com/abdulmakuya/semafree/blob/master/ussd.jpg?raw=true">
 
 
-## System design pattern and architechture
+## Flow Chart of the Proposed System (architechture)
 <img src="https://github.com/abdulmakuya/semafree/blob/master/backend.jpg?raw=true">
 
 
