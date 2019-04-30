@@ -19,24 +19,17 @@ Ironically the management needs to hear this from their customers,the customers 
 We are designing a unified digital suggestion box for complaints and suggestions for the community
 
 ### Mobile app screenflow
-<img src="https://github.com/abdulmakuya/semafree/blob/master/app.jpg?raw=true">
+<img src="https://github.com/abdulmakuy/semafree/blob/master/app.jpg?raw=true">
 
 
-```python
-
-import this
-
-print("hello world")
-
-```
 
           
 ### USSD screenflow
-<img src="https://github.com/abdulmakuya/semafree/blob/master/ussd.jpg?raw=true">
+<img src="https://github.com/abdulmakuy/semafree/blob/master/ussd.jpg?raw=true">
 
 
 ## Flow Chart of the Proposed System (architechture)
-<img src="https://github.com/abdulmakuya/semafree/blob/master/backend.jpg?raw=true">
+<img src="https://github.com/abdulmakuy/semafree/blob/master/backend.jpg?raw=true">
 
 
 
